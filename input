@@ -1,0 +1,5 @@
+My_name = input("what's your name?: ")
+My_age = input("How old are you?: ")
+print("Gee,That's REALLY OLD")
+replit = input("Do you like Replit?: ")
+print("of course you do!")
