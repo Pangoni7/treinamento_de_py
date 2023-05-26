@@ -1,0 +1,35 @@
+Myname = input("what's your  name? ")
+Mylunch = input("what are you having  for lunch? ")
+print(Myname,"is going to b chowing down on", Mylunch, "very soon")
+
+
+number = input("Give me a number: ")
+group = input("Give me a collective noun for a group of things: ")
+thing = input("give me the name of a weird or wacky thing: ")
+print("No i don't think that", number<
+     "is a", group, "of", thing, ". Thats just odd.")
+     
+     yourName = input("Name: ")
+whatYear = input(" What year is it: ")
+print(yourName,"think it is", whatYear)
+
+
+print("===Your song Generator===")
+print("""you'll be asked a bunch of question
+then we'll make you up an amazing song,
+totally copyright free 😭 """)
+print()
+person = input("Name a person famous for something  good:  ")
+thing = input("name a thing they did: ")
+place = input("Name a place you like: ")
+Rhyme = input("Give me a verb that rhymes with your  person's name: ")
+print("there was a person called",person)
+print("who did something coll like", thing,"at the wonderfull",place,"where tou'll find",Rhyme)
+
+
+Food_name = input("o que  gosta de comer?: ")
+Plant_name = input("que planta você gosta?: ")
+Method_names = input("qual tempero você coloca na comida?: ")
+burnedfood_name = input("como voce chama uma comida  queimada?: ")
+Item_name = input("um item caseiro?: ")
+print("eu adoro comer",Food_name,"acho muito bonita essa", Plant_name, "nossa  adoro temper com", Method_names, "acho que quando a  comida  fica queimada , ela fica ", burnedfood_name, "adoro usar", Item_name, "para comer")
