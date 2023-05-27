@@ -1,0 +1,45 @@
+My_name = input("Qual seu nome?: ")
+if My_name == "Marco":
+  print("Ben vindo parceiro!")
+  print("Você é  o melhor parceiro que eu ja  vi")
+else:
+  print("mas quem diabos é você")
+  
+  cats_or_dogs = input("você é um gato ou um cachorro?: ")
+if cats_or_dogs == "gato":
+  print("meau")
+else:
+  print("au au")
+  
+  drink = input(" Do you prefer coffee or tea?: ")
+if drink == "coffee":
+  print("excelent choice")
+else:
+  ("coffee is better  than tea")
+  
+  
+  aranha = input("voce gosta de de aranhas? ")
+escudo = input("Você é justo ?: ")
+martelo = input("você se sente um deus?: ")
+arco = input("você é bom de mira?: ")
+
+if arco == ("sim"):
+  print("bem vindo gavião")
+else:
+  print("acho que você não seria um bom arqueiro")
+
+if martelo == ("sim"):
+  print("ola odin-son")
+else:
+  print("você não vai conseguir levantar o martelo")
+
+if escudo == ("sim"):
+  print("Ola capitão")
+else:
+  print("contiue tentando")
+  
+if aranha == ("sim"):
+  print("hello spider man")
+else:
+  print("Você não é o amigo da vizinhança")
+  
