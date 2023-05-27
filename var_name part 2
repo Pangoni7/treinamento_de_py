@@ -1,0 +1,11 @@
+print("bem vindo ao simulador de aventura. eu sou a  pessoa que vai perguntar uma serie  de coisas  para você e criar uma aventura  epica")
+Myname = input("Qual seu nome ?: ")
+Enemynamme = input("qual nome do seu pior inimigo?: ")
+SuperPower = input("Qual  é seu super poder?: ")
+Home = input("Onde  você mora ?: ")
+Food = input("Qual sua comida favorita?: ")
+
+print("Ola", Myname )
+print("Sua habilidade de", SuperPower)
+print("VocÊ deve ter certeza que nuva va ver seu " , Enemynamme, "de novo.")
+print("vá  e coma  seu", Food, "enquanto  você anda  pela  rua  até", Home, "Para o bem e não para o mal")
