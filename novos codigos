@@ -1,0 +1,32 @@
+codigo = 105
+nome = 'josé '  
+salario = 1650.00
+ativo = True
+
+print("codigo: %d"% codigo)
+print("nome: %s" % nome)
+print("salario: % 2.f"% salario)
+print("ativo: %r" % salario)
+
+
+
+codigo = int(input("Digite  o codigo do funcionario: "))
+nome = str(input("digite o nome  do funconario: "))  
+salario = float(input("digite o salario do funcionario: "))
+ativo = True
+
+print("codigo: %d"% codigo)
+print("nome: %s" % nome)
+print("salario: % 2.f"% salario)
+print("ativo: %r" % salario)
+
+
+a = 5
+b = 15
+c = 20
+
+print("a == b and  b > c", a == b and b >  c)
+print(" a <  b or  b > c ", a < b or b > c)
+print("not a == b : ", not a == b )
+
+
